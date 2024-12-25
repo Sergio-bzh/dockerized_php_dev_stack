@@ -1,4 +1,1 @@
-172.25.0.1 - - [24/Dec/2024:14:39:39 +0000] "GET / HTTP/1.1" 200 75516 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-172.25.0.1 - - [24/Dec/2024:14:39:39 +0000] "GET /favicon.ico HTTP/1.1" 404 555 "http://localhost:8000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-172.25.0.1 - - [24/Dec/2024:15:07:53 +0000] "GET / HTTP/1.1" 200 75687 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-172.25.0.1 - - [24/Dec/2024:15:17:12 +0000] "GET /mysql.php HTTP/1.1" 200 49 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+
