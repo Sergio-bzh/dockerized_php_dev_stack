@@ -67,8 +67,8 @@ sudo docker-compose up --build -d
 
 4. Accédez aux services via un navigateur web grâce à leurs ports respectifs :
    - Application web : [http://localhost:8000](http://localhost:8000)
-   - phpMyAdmin : [http://localhost:8888](http://localhost:8888)
-   - Mongo-Express : [http://localhost:8181](http://localhost:8181)
+   - phpMyAdmin : [http://localhost:8888](http://localhost:8888) (_identifiants_ : **helloworld**)
+   - Mongo-Express : [http://localhost:8181](http://localhost:8181) (_identifiants_ : **mexpress**)
 
 ## Variables d'environnement
 
