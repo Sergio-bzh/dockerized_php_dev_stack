@@ -59,7 +59,8 @@ dossier-project/
 
 1. Clonez ce dépôt ou copiez les fichiers nécessaires dans un répertoire local.
 2. Assurez-vous que l'arborescence du projet correspond à celle mentionnée plus haut.
-3. Construisez et démarrez les conteneurs en exécutant :
+3. Lancez l'application Docker Desktop.
+4. Construisez et démarrez les conteneurs en exécutant :
 
 ```bash
 sudo docker-compose up --build -d
